@@ -1,0 +1,21 @@
+# Site settings
+title: Happy Mums Foundation
+email: katherine@happymumsfoundation.org.uk
+description: > # this means to ignore newlines until "baseurl:"
+  We're a not-for-profit organisation, based in Carlisle, and it's our aim to support women to be happy mums!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.happymumsfoundation.org.uk/" # the base hostname & protocol for your site
+twitter_username: happymumsfdn
+telephone: 
+
+# Build settings
+markdown: kramdown
+
+# Pretty URL
+permalink: "news/:title"
+
+# Custom categories
+categories: [navbar]
+
+sass:
+    style: :compressed
