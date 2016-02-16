@@ -8,11 +8,11 @@
 	<meta name="robots" content="index,follow"/>
 
 	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
-	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet" type="text/css">
 	<link href="/css/main.css" rel="stylesheet" type="text/css">
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A==" crossorigin="anonymous"></script>
+	<link rel="icon" href="/img/logo.png" type="image/x-icon" />
 </head>
 
 <body>
@@ -20,7 +20,7 @@
 <div id="homepage-top" class="navbar-wrapper">
 	<div class="container">
 		<div id="logo">
-			<a href="/"><img src="img/logo.png" width="96" height="96"></a>
+			<a href="/"><img src="/img/logo.png" width="96" height="96"></a>
 		</div>
 	</div>
 </div>
@@ -39,7 +39,7 @@
 
 			<div id="navbar" class="navbar-collapse collapse">
 			  <ul class="nav navbar-nav">
-				<li class="active"><a href="#">Home</a></li>
+				<li class="active"><a href="/">Home</a></li>
 
 				<li class="dropdown">
 				  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About<span class="caret"></span></a>
@@ -49,13 +49,12 @@
 					<li><a href="#">Carlisle Room Hire</a></li>
 					<li role="separator" class="divider"></li>
 					<li class="dropdown-header">Contact</li>
-					<li><a href="#">Contact</a></li>
-					<li><a href="#">Find us</a></li>
+					<li><a href="/about-us/contact-us.html">Contact</a></li>
+					<li><a href="/about-us/find-us.html">Find us</a></li>
 				  </ul>
 				</li>
 
-				<li><a href="#contact">Links &amp; FAQs</a></li>
-				<li><a href="#contact">Media</a></li>
+				<li><a href="/links-and-faqs.html">Links &amp; FAQs</a></li>
 				<li><a href="#contact">Blog</a></li>
 			  </ul>
 			</div>
@@ -66,10 +65,17 @@
 <div class="container">
 	{{ content }}
 
+	<hr>
 	<footer>
-		<a href="#"><img src="img/twitter_big.png" /></a>
-		<a href="#"><img src="img/facebook_big.png" /></a>
-		<a href="#"><img src="img/googleplus_big.png" /></a>
+		<div class="pull-left">
+		&copy; The Happy Mums Foundation CIC 
+		</div>
+
+		<div class="pull-right">
+			<a href="#"><img src="/img/twitter_big.png" /></a>
+			<a href="#"><img src="/img/facebook_big.png" /></a>
+			<a href="#"><img src="/img/googleplus_big.png" /></a>
+		</div>
 	</footer>
 </div>
 </body>
@@ -77,6 +83,9 @@
 
 <!-- Mailchimp -->
 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"bf073cd62e4887ebf49bd1fd4","lid":"bdfae022d9"}) })</script>
+
+<!-- Custom font -->
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet" type="text/css">
 
 <!-- Google analytics -->
 <script type="text/javascript">
