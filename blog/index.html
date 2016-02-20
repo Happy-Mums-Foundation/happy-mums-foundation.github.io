@@ -1,0 +1,25 @@
+---
+layout: page
+title: Happy Mums Foundation Blog
+permalink: /blog/
+---
+<img src="/img/116.jpg" class="img-responsive img-rounded" />
+
+<p></p>
+<p>
+	<strong>If you would like to share your experiences of pregnancy, birth or life with baby, please get in touch - we welcome guest bloggers!</strong>
+</p>
+ 
+<p>
+Perhaps you've got a story which will give hope to someone currently experiencing mental health problems in pregnancy or maternity - we would love to hear from you. 
+</p>
+
+<h2>Posts</h2>
+<ul class="list-group">
+  {% for post in site.posts %}
+    <li class="list-group-item">
+        <h4 class="list-group-item-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+        <p class="list-group-item-text">{{ post.date | date: "%b %-d, %Y" }}</p>
+    </li>
+  {% endfor %}
+</ul>

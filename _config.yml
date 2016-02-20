@@ -12,7 +12,7 @@ telephone:
 markdown: kramdown
 
 # Pretty URL
-permalink: "news/:title"
+permalink: "blog/:title.html"
 
 sass:
     style: :compressed
