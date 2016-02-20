@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Find us
+permalink: /about-us/find-us.html
 ---
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d51918.00053419444!2d-2.875268565750372!3d54.894617353023946!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf6549cacef59a40a!2sThe+Happy+Mums+Foundation+CIC!5e0!3m2!1sen!2suk!4v1455653101447" width="100%" height="300px"  frameborder="0" style="border:0" allowfullscreen></iframe>
 **The Coach House Centre  

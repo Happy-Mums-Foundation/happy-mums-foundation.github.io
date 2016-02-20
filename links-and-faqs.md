@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Links and FAQs
+permalink: /links-and-faqs.html
 ---
 ## Useful Links
 If you are worried you might have antenatal or postnatal depression, or another maternal mental health problem, you should contact your GP, Midwife or Health Visitor. 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact us
+permalink: /about-us/contact-us.html
 ---
 ![Phone](/img/phone.jpg)
 

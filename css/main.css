@@ -5,6 +5,7 @@ body {
 
 body, p, h1,h2,h3 { font-family: 'Source sans pro', sans-serif; }
 p { font-size: 1.2em; }
+h3 { margin-top: 0; }
 
 /* Customisations */
 .navbar-wrapper > .container {
