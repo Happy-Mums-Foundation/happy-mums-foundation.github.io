@@ -6,10 +6,15 @@ body {
 body, p, h1,h2,h3 { font-family: 'Source sans pro', sans-serif; }
 p { font-size: 1.2em; }
 h3 { margin-top: 0; }
+h4 { margin-top: 0; font-weight: bold;}
 
 .blog-content .img-rounded { margin: 5px; }
+#links img { max-height: 50px; overflow: hidden; padding: 5px; }
 
 /* Customisations to Bootstrap based on their examples */
+.container h1 { padding-bottom: 30px; }
+.row { margin-left: -5px; }
+
 .navbar-wrapper > .container {
   padding-right: 0;
   padding-left: 0;

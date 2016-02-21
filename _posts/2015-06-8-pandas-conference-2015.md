@@ -7,12 +7,12 @@ I was so pleased to be able to attend the PANDAS Conference in Telford on Saturd
  
 PANDAS is a national charity supporting women with pre or postnatal illness and their families. PANDAS stands for: 
 
-Pre  
-And post  
-Natal  
-Depression  
-Advice and  
-Support  
+**P**re  
+**A**nd post  
+**N**atal  
+**D**epression  
+**A**dvice and  
+**S**upport  
  
 Find our more on their website [www.pandasfoundation.org.uk](http://www.pandasfoundation.org.uk)
  
