@@ -7,7 +7,9 @@ body, p, h1,h2,h3 { font-family: 'Source sans pro', sans-serif; }
 p { font-size: 1.2em; }
 h3 { margin-top: 0; }
 
-/* Customisations */
+.blog-content .img-rounded { margin: 5px; }
+
+/* Customisations to Bootstrap based on their examples */
 .navbar-wrapper > .container {
   padding-right: 0;
   padding-left: 0;
