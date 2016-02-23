@@ -77,7 +77,7 @@ permalink: /services/pregnancy-and-birth.html
 			<img src="/img/pregnancy-and-birth-6.jpg" class="img-rounded" />
 		</div>
 		<div class="row">
-			<h2>Simple Yoga</h2>
+			<h2><a href="/services/cocoon-yoga.html">Simple Yoga</a></h2>
 			<p>
 			A gentle class perfect for mums-to-be. Taught by Clare Bevington from Cocoon Yoga. Childcare is available on Fridays.
 			</p>

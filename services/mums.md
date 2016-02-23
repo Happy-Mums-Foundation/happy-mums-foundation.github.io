@@ -50,7 +50,7 @@ permalink: /services/whats-on-for-a-mum-in-carlisle.html
 			<img src="/img/miniyoga.jpg" class="img-responsive img-rounded" />
 		</div>
 		<div class="row">
-			<h2>Mini Yoga</h2>
+			<h2><a href="/services/mini-yoga.html">Mini Yoga</a></h2>
 			<p>
 			For babies and toddlers. Taught by Emily Hoyle. 
 			</p>
@@ -74,7 +74,7 @@ permalink: /services/whats-on-for-a-mum-in-carlisle.html
 			<img src="/img/mums-3.jpg" class="img-responsive img-rounded" />
 		</div>
 		<div class="row">
-			<h2>Aerial Yoga</h2>
+			<h2><a href="/services/cocoon-yoga.html">Aerial Yoga</a></h2>
 			<p>
 			Go on, give it a try! Taught by Clare Bevington from Cocoon Yoga.
 			</p>
@@ -88,7 +88,7 @@ permalink: /services/whats-on-for-a-mum-in-carlisle.html
 			<img src="/img/mums-4.jpg" class="img-responsive img-rounded" />
 		</div>
 		<div class="row">
-			<h2>Simple Yoga</h2>
+			<h2><a href="/services/cocoon-yoga.html">Simple Yoga</a></h2>
 			<p>
 			A perfect class for mums to get some 'me time'. Taught by Clare Bevington from Cocoon Yoga.
 			</p>
