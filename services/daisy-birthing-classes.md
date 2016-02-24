@@ -4,7 +4,7 @@ title: Carlisle Pregnancy / Antenatal Classes with Daisy Birthing
 permalink: /services/carlisle-pregnancy-antenatal-classes-with-daisy-birthing.html
 ---
 
-![Daisy birthing](/img/daisy-birthing-mid.png){: .img-responsive }
+![Daisy birthing](/img/daisy-birthing-mid.jpg){: .img-responsive }
 
 If you're pregnant in Carlisle, North Cumbria, its almost certain that you are now looking for something that can help you to:
 

@@ -4,7 +4,7 @@ title: Mini Yoga
 permalink: /services/mini-yoga.html
 ---
 
-![Mini yoga](/img/miniyoga-1.png){: .img-responsive .img-rounded }
+![Mini yoga](/img/miniyoga-1.jpg){: .img-responsive .img-rounded }
 
 Mother and Baby Yoga is a great way for mother and baby to bond with each other on a physical and emotional level. Benefits include better sleep for everyone, reduction of colic and constipation and a boost to baby’s body confidence and awareness. It’s also a great way to meet other mums and their babies.
 

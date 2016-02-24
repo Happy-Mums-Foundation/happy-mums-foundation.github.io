@@ -19,7 +19,7 @@ permalink: /services/pregnancy-and-birth.html
 
 	<div class="col-md-3 col-md-offset-1">
 		<div class="row">
-			<img src="/img/pregnancy-and-birth-2.png" class="img-responsive" />
+			<img src="/img/pregnancy-and-birth-2.jpg" class="img-responsive" />
 		</div>
 		<div class="row">
 			<h2><a href="/services/carlisle-pregnancy-antenatal-classes-with-daisy-birthing.html">Daisy Birthing Classes</a></h2>
