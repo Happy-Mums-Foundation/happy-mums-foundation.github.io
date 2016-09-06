@@ -4,9 +4,11 @@ title: North Cumbria PANDAS Peer Support Groups
 permalink: /services/carlisle-postnatal-depression-support-groups.html
 ---
 
-[![Pandas](/img/pandas.png){: .img-responsive }]
 
-### Our support groups are currently on hold while we recruit and train new volunteer leaders. The groups will be back in autumn 2016
+#Please note:
+Our support groups are currently on hold while we recruit and train new volunteer leaders. The groups will be back in autumn 2017
+
+[![Pandas](/img/pandas.png){: .img-responsive }]
 
 ###Are you experiencing pre or postnatal depression?
  
