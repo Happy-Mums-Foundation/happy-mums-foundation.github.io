@@ -5,7 +5,7 @@ permalink: /services/carlisle-postnatal-depression-support-groups.html
 ---
 
 
-# Please note: Our support groups are currently on hold while we recruit and train new volunteer leaders. The groups will be back in autumn 2017
+# Please note: Our support groups are currently on hold while we recruit and train new volunteer leaders. The groups will be back in autumn 2016
 
 ![Pandas](/img/pandas.png){: .img-responsive }
 
