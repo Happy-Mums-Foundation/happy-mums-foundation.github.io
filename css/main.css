@@ -77,9 +77,20 @@ h4 { margin-top: 0; font-weight: bold;}
 }
 
 /* Happy mums */
-#homepage-top { background-color: #fcfa4c; }
+#homepage-top { background-color: #f5f5f5; }
 #logo { padding: 10px 0; }
-#navbar-container { background-color: #222;margin-bottom: 20px; }
+#logo img {
+	border: 1px solid #c7c7c7;
+}
+#navbar-container { 
+	background-color: #f7dd30;
+	margin-bottom: 20px; 
+}
+
+#navbar-container .navbar-inverse a {
+	color: #000;
+}
+
 #carousel-container, #content { margin-left: 0; margin-right:0; }
 
 @media (max-width: 768px) {
