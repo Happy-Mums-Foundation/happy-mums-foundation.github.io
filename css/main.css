@@ -76,7 +76,7 @@ h4 { margin-top: 0; font-weight: bold;}
 	}
 }
 
-/* Happy mums */
+/* Happy mums specific */
 #homepage-top { background-color: #f5f5f5; }
 #logo { padding: 10px 0; }
 #logo img {
@@ -87,8 +87,35 @@ h4 { margin-top: 0; font-weight: bold;}
 	margin-bottom: 20px; 
 }
 
+/* Use navbar-inverse for the mobile menu, but remove its black background */
+#navbar-container .navbar-inverse {
+    background-color: #f7dd30;
+    border-color: #f7dd30;
+}
+#navbar-container .navbar-inverse .navbar-toggle {
+    border-color: #f5f5f5;
+}
+
+#navbar-container .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    background-color: #d8c441;
+}
+
+#navbar-container .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: #d8c441;
+    border-color: #f7dd30;
+}
+
+#navbar-container .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #d8c441;
+}
+
 #navbar-container .navbar-inverse a {
 	color: #000;
+}
+/* end of navbar-invese customisation */
+
+#navbar-container p.navbar-text {
+  font-size: 14px;
 }
 
 #carousel-container, #content { margin-left: 0; margin-right:0; }
