@@ -3,17 +3,24 @@ layout: page
 title: Contact us
 permalink: /about-us/contact-us.html
 ---
+
+
 ![Phone](/img/phone.jpg)
 
-To book a room: 
+For general enquiries, Daisy Birthing/ Daisy Parent classes and support groups:
 
-- email: [roomhire@happymumsfoundation.org.uk](mailto:roomhire@happymumsfoundation.org.uk)
-- complete the room hire bookings enquiry form
-- phone: [07565486745](tel:07565486745)
- 
-To find out about more about the PANDAS Peer Support Group:
+* Email: [info@happymums.org.uk](javascript:void(location.href='mailto:'+String.fromCharCode(105,110,102,111,64,104,97,112,112,121,109,117,109,115,46,111,114,103,46,117,107)))
+* Phone 07565486745
 
-- email: [katherine@happymumsfoundation.org.uk](mailto:katherine@happymumsfoundation.org.uk)
-- phone: Katherine [07565486745](tel:07565486745)
- 
- To enquire about or book a place at a class, activity or event running at the Coach House Centre, contact the organiser directly. Contact details can be found here.
+
+To enquire about or hire a room at the Coach House Centre:
+
+* Email: [roomhire@happymums.org.uk](javascript:void(location.href='mailto:'+String.fromCharCode(114,111,111,109,104,105,114,101,64,104,97,112,112,121,109,117,109,115,46,111,114,103,46,117,107)))
+
+
+To enquire about or hire a birth pool:
+
+* Email: [birthpools@happymums.org.uk](javascript:void(location.href='mailto:'+String.fromCharCode(98,105,114,116,104,112,111,111,108,115,64,104,97,112,112,121,109,117,109,115,46,111,114,103,46,117,107)))
+
+
+To enquire about or book a place at any other classes, activities or events running at the Coach House Centre, contact the organiser directly. Contact details can be found under the ‘services’ menu.
