@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Support Groups (for Mums)
-permalink: /services/carlisle-postnatal-depression-support-groups.html
+permalink: /services/support-groups-for-mums.html
 ---
-
-
 # Please note: Our support groups are currently on hold while we recruit and train new volunteer leaders. The groups will be back in autumn 2016
 
 ### Are you experiencing pre or postnatal depression?

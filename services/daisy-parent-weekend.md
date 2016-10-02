@@ -1,3 +1,8 @@
+---
+layout: page
+title: The Daisy Parent workshop
+permalink: /services/daisy-parent-weekend.html
+---
 The Daisy Parent workshop is designed for mums to be and their birth supporter. We cover traditional antenatal education combined with looking at induction and medical interventions in an understandable way should your birth take that route. This combination ensures you are actively informed and prepared to make choices for you and your baby on your birthing day. We teach evidence-based education that is inclusive of all birth preference and parenting methods. We recommend you attend our courses in conjuction with any classes that may be provided by your local maternity unit or hospital. In our workshops not only are you given the additional benefits of time and individual attention, but you also gain a deeper confidence and understanding through exploring all techniques and key topics with your birth partner.
 
 Workshops cover all of the more common topics such as pain relief, interventions and national maternity guidelines. In addition you have the opportunity to learn about more in-depth subjects such as Vitamin K, delayed cord clamping and the benefits of skin-to-skin. Within the workshop you will learn the importance of the ‘golden hour’ and what you can do to gently help your baby’s transition to the outside world.
