@@ -1,34 +1,28 @@
-- image: "/img/postnatal-and-beyond-1.jpg"
-  link: "/services/carlisle-postnatal-depression-support-groups.html"
-  title: "PANDAS Peer Support Groups"
-  description: "Come along to our groups in and around Carlisle for support with pre and postnatal illness."
-
-- image: "/img/postnatal-and-beyond-2.jpg"
-  link: "/services/room-hire-for-baby-showers.html"
-  title: "Baby birthday parties"
+- image: /img/postnatal-and-beyond-1.jpg
+  link: /services/carlisle-postnatal-depression-support-groups.html
+  title: Support Groups (for Mums)
+  description: 'Come along to our friendly groups across North Cumbria. Support for anxiety, depression and low mood during pregnancy and motherhood.'
+- image: /img/postnatal-and-beyond-2.jpg
+  link: /services/room-hire-for-baby-showers.html
+  title: Baby birthday parties
   description: "Celebrate your little ones' milestones with child-friendly room hire at the Coach House Centre!"
-
-- image: "/img/postnatal-and-beyond-3.jpg"
-  link: "#"
-  title: "Mindfulness for Mums"
-  description: "Calm and clear your mind; sleep better and feel happier. Taught by Sally Roythorn."
-
-- image: "/img/postnatal-and-beyond-4.jpg"
-  link: "/services/mini-yoga.html"
-  title: "Mini Yoga"
-  description: "For babies and toddlers. Taught by Emily Hoyle."
-
-- image: "/img/postnatal-and-beyond-5.jpg"
-  link: "#"
-  title: "Baby Massage"
-  description: "Coming soon to the Coach House Centre!"
-
-- image: "/img/postnatal-and-beyond-6.jpg"
-  link: "/services/yoga.html"
-  title: "Aerial Yoga"
-  description: "Go on, give it a try! Taught by Clare Bevington from Cocoon Yoga."
-
-- image: "/img/postnatal-and-beyond-7.jpg"
-  link: "/services/yoga.html"
-  title: "Simple Yoga"
+- image: /img/postnatal-and-beyond-3.jpg
+  link: '#'
+  title: Mindfulness for Mums
+  description: Calm and clear your mind; sleep better and feel happier. Taught by Sally Roythorne.
+- image: /img/postnatal-and-beyond-4.jpg
+  link: /services/mini-yoga.html
+  title: Mini Yoga
+  description: "Massage, rhymes, song and movement to delight and support baby's gross motor development. Come and meet other new mummies, and spend some quality time with you, baby and your amazing bodies."
+- image: /img/postnatal-and-beyond-5.jpg
+  link: '#'
+  title: Baby Massage
+  description: Classes taught by Laura Martin from Mollycoddle Massage.
+- image: /img/postnatal-and-beyond-6.jpg
+  link: 'http://www.cocoonyoga.co.uk'
+  title: Aerial Yoga
+  description: As we move through an adapted sequence of yoga postures we explore improved alignment; strengthening the core and lengthening the body whilst releasing built up muscle tension and relieving joint compression.
+- image: /img/postnatal-and-beyond-7.jpg
+  link: /services/yoga.html
+  title: Simple Yoga
   description: "A perfect class for mums to get some 'me time'. Taught by Clare Bevington from Cocoon Yoga."
