@@ -1,0 +1,22 @@
+---
+layout: page
+title: Postnatal & Beyond
+permalink: /services/postnatal-and-beyond.html
+---
+<div class="row">
+{% for item in site.data.postnatal_beyond %}
+  {% capture modulo %}{{ forloop.index0 | modulo:3 }}{% endcapture %}
+  	<div class="col-md-3{%if modulo != '0' %} col-md-offset-1{% endif %}">
+        <div class="row"><img class="img-responsive img-rounded" src="{{ item.image }}" /></div>
+        <div class="row">
+          <h2><a href="{{ item.link }}">{{ item.title }}</a></h2>
+          <p>{{ item.description }}</p>
+        </div>
+	</div>
+  {% if modulo == '2' and forloop.last == false %}
+    </div>
+    <div class="row" style="height: 50px">&nbsp;</div>
+    <div class="row">
+  {% endif %}
+{% endfor %}
+</div>
