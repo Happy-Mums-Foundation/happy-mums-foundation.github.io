@@ -8,7 +8,7 @@ Hire our luxury rooms at the Coach House Centre, Carlisle for your baby shower!
 
 Bring your own food and refreshments for the perfect celebration. 
 
-[Email to enquire or book](services/carlisle-room-hire.html){: .btn.btn-primary.btn-lg}
+[Carlisle Room Hire...](services/carlisle-room-hire.html){: .btn.btn-primary.btn-lg}
 
 <div class="row">
 	<div class="col-md-3">
