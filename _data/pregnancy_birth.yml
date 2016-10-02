@@ -1,34 +1,28 @@
-- image: "/img/pregnancy-and-birth-supportgroups.jpg"
-  link: "/services/support-groups-for-mums.html"
-  title: "Support Groups for Mums"
-  description: "Come along to our friendly groups across North Cumbria. Support for anxiety, depression and low mood during pregnancy and motherhood."
-
-- image: "/img/pregnancy-and-birth-daisybirthing.jpg"
-  link: "/services/carlisle-pregnancy-antenatal-classes-with-daisy-birthing.html"
-  title: "Daisy Birthing Classes"
-  description: "Prepare for a positive birth with Active Antenatal classes in Carlisle including yoga-based movement, breathing techniques, relaxation, active birth education. A great way to meet other local mums-to-be."
-
-- image: "/img/pregnancy-and-birth-mindfulness.jpg"
-  link: "#"
-  title: "Mindfulness for Mums"
-  description: "Calm and clear your mind, sleep better and feel happier. Taught by Sally Roythorne, this mindfulness course helps us deal with the every day challenges of being a mums-to-be and learn to appreciate the present moment."
-
-- image: "/img/pregnancy-and-birth-babyshows.jpg"
-  link: "room-hire-for-baby-showers.html"
-  title: "Room Hire for Baby Showers"
-  description: "We offer child-friendly venue hire in Carlisle perfect for hosting baby showers. Bring your own food and refreshments for a great celebration!"
-
-- image: "/img/pregnancy-and-birth-poolhire.jpg"
-  link: "#"
-  title: "Birth Pool Hire"
-  description: "A low-cost community hire scheme of inflatable birth pools for use in home births."
-
-- image: "/img/pregnancy-and-birth-dads.jpg"
-  link: "#"
-  title: "Support Groups (for Dads / Partners)"
-  description: "For Dads/Partners dealing with low mood, anxiety and/or depression in themselves or their partner."
-
-- image: "/img/pregnancy-and-birth-daisyparent.jpg"
-  link: "/services/daisy-parent-weekend-workshops.html"
-  title: "Daisy Parent Weekend Workshops"
-  description: "An all-inclusive birth preparation and baby care workshop. It combines antenatal and active birth education with the use of movement, breathing techniques and relaxation tools. Practical baby care demonstrations are delivered alongside un-biased education on parenting choices, safety and baby calming techniques."
+- image: /img/pregnancy-and-birth-supportgroups.jpg
+  link: /services/support-groups-for-mums.html
+  title: Support Groups for Mums
+  description: 'Come along to our friendly groups across North Cumbria. Support for anxiety, depression and low mood during pregnancy and motherhood.'
+- image: /img/pregnancy-and-birth-daisybirthing.jpg
+  link: /services/carlisle-pregnancy-antenatal-classes-with-daisy-birthing.html
+  title: Daisy Birthing Classes
+  description: 'Prepare for a positive birth with Active Antenatal classes in Carlisle including yoga-based movement, breathing techniques, relaxation, active birth education. A great way to meet other local mums-to-be.'
+- image: /img/pregnancy-and-birth-mindfulness.jpg
+  link: '#'
+  title: Mindfulness for Mums
+  description: 'Calm and clear your mind, sleep better and feel happier. Taught by Sally Roythorne, this mindfulness course helps us deal with the every day challenges of being a mums-to-be and learn to appreciate the present moment.'
+- image: /img/pregnancy-and-birth-babyshows.jpg
+  link: room-hire-for-baby-showers.html
+  title: Room Hire for Baby Showers
+  description: 'We offer child-friendly venue hire in Carlisle perfect for hosting baby showers. Bring your own food and refreshments for a great celebration!'
+- image: /img/pregnancy-and-birth-poolhire.jpg
+  link: '#'
+  title: Birth Pool Hire
+  description: A low-cost community hire scheme of inflatable birth pools for use in home births.
+- image: /img/pregnancy-and-birth-dads.jpg
+  link: '#'
+  title: Support Groups (for Dads / Partners)
+  description: 'For Dads/Partners dealing with low mood, anxiety and/or depression in themselves or their partner.'
+- image: /img/pregnancy-and-birth-daisyparent.jpg
+  link: /services/daisy-parent-weekend.html
+  title: Daisy Parent Weekend Workshops
+  description: 'An all-inclusive birth preparation and baby care workshop. It combines antenatal and active birth education with the use of movement, breathing techniques and relaxation tools. Practical baby care demonstrations are delivered alongside un-biased education on parenting choices, safety and baby calming techniques.'
