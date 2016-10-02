@@ -7,8 +7,6 @@ permalink: /services/carlisle-postnatal-depression-support-groups.html
 
 # Please note: Our support groups are currently on hold while we recruit and train new volunteer leaders. The groups will be back in autumn 2016
 
-&nbsp;
-
 ### Are you experiencing pre or postnatal depression?
 
 ### Or maybe you’re feeling anxious, sad, overwhelmed?
