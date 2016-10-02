@@ -1,24 +1,34 @@
-- image: /img/postnatal-and-beyond-1.jpg
+- image: /img/postnatal-and-beyond-supportgroups.jpg
   link: /services/carlisle-postnatal-depression-support-groups.html
   title: Support Groups (for Mums)
   description: 'Come along to our friendly groups across North Cumbria. Support for anxiety, depression and low mood during pregnancy and motherhood.'
-- image: /img/postnatal-and-beyond-2.jpg
+
+- image: "/img/postnatal-and-beyond-dads.jpg"
+  link: "#"
+  title: "Support Groups (for Dads / Partners)"
+  description: "For Dads/Partners dealing with low mood, anxiety and/or depression in themselves or their partner."
+
+- image: /img/postnatal-and-beyond-babybirthdays.jpg
   link: /services/room-hire-for-baby-showers.html
   title: Baby birthday parties
   description: "Celebrate your little ones' milestones with child-friendly room hire at the Coach House Centre!"
-- image: /img/postnatal-and-beyond-3.jpg
+
+- image: /img/postnatal-and-beyond-mindfulness.jpg
   link: '#'
   title: Mindfulness for Mums
   description: Calm and clear your mind; sleep better and feel happier. Taught by Sally Roythorne.
-- image: /img/postnatal-and-beyond-4.jpg
+
+- image: /img/postnatal-and-beyond-miniyoga.jpg
   link: /services/mini-yoga.html
   title: Mini Yoga
   description: "Massage, rhymes, song and movement to delight and support baby's gross motor development. Come and meet other new mummies, and spend some quality time with you, baby and your amazing bodies."
-- image: /img/postnatal-and-beyond-5.jpg
+
+- image: /img/postnatal-and-beyond-babymassage.jpg
   link: '#'
   title: Baby Massage
   description: Classes taught by Laura Martin from Mollycoddle Massage.
-- image: /img/postnatal-and-beyond-6.jpg
+
+- image: /img/postnatal-and-beyond-cocoon.jpg
   link: 'http://www.cocoonyoga.co.uk'
   title: Aerial Yoga
   description: As we move through an adapted sequence of yoga postures we explore improved alignment; strengthening the core and lengthening the body whilst releasing built up muscle tension and relieving joint compression.
