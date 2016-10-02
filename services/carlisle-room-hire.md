@@ -7,6 +7,11 @@ permalink: /services/carlisle-room-hire.html
 
 [Email to enquire or book](javascript:void(location.href='mailto:'+String.fromCharCode(114,111,111,109,104,105,114,101,64,104,97,112,112,121,109,117,109,115,46,111,114,103,46,117,107))){: .btn.btn-primary.btn-lg}
 
+
+<p>
+For more information see our sister website <a href="www.coachhousecarlisle.co.uk" target="_blank">www.coachhousecarlisle.co.uk</a>
+</p>
+
 <div style="height: 25px;">&nbsp;</div>
 
 <div class="row"><div class="col-md-3"><div class="row"><img class="img-responsive img-rounded" src="/img/room-hire-1.jpg" /></div><div class="row"><h2>Meetings</h2><p>Formal or informal for 2-20 people</p></div></div><div class="col-md-3 col-md-offset-1"><div class="row"><img class="img-responsive img-rounded" src="/img/room-hire-2.jpg" /></div><div class="row"><h2>Classes &amp; activities</h2><p>For up to 15 adults, babies, toddlers &amp; children.</p></div></div><div class="col-md-3 col-md-offset-1"><div class="row"><img class="img-responsive img-rounded" src="/img/room-hire-3.jpg" /></div><div class="row"><h2>Celebrations</h2><p>From reunions to baby showers for 2-20 people.</p></div></div></div>
