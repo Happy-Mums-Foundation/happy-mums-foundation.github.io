@@ -7,14 +7,11 @@ permalink: /services/carlisle-room-hire.html
 
 [Email to enquire or book](javascript:void(location.href='mailto:'+String.fromCharCode(114,111,111,109,104,105,114,101,64,104,97,112,112,121,109,117,109,115,46,111,114,103,46,117,107))){: .btn.btn-primary.btn-lg}
 
-
-<p>
-For more information see our sister website <a href="www.coachhousecarlisle.co.uk" target="_blank">www.coachhousecarlisle.co.uk</a>
-</p>
+For more information see our sister website [www.coachhousecarlisle.co.uk](www.coachhousecarlisle.co.uk)
 
 <div style="height: 25px;">&nbsp;</div>
 
-<div class="row"><div class="col-md-3"><div class="row"><img class="img-responsive img-rounded" src="/img/room-hire-1.jpg" /></div><div class="row"><h2>Meetings</h2><p>Formal or informal for 2-20 people</p></div></div><div class="col-md-3 col-md-offset-1"><div class="row"><img class="img-responsive img-rounded" src="/img/room-hire-2.jpg" /></div><div class="row"><h2>Classes &amp; activities</h2><p>For up to 15 adults, babies, toddlers &amp; children.</p></div></div><div class="col-md-3 col-md-offset-1"><div class="row"><img class="img-responsive img-rounded" src="/img/room-hire-3.jpg" /></div><div class="row"><h2>Celebrations</h2><p>From reunions to baby showers for 2-20 people.</p></div></div></div>
+<div class="row"><div class="col-md-3"><div class="row"><img class="img-responsive img-rounded" src="/uploads/versions/coachhouse-meetingroom---x105-0-270-270-532-532x---.jpg" width="532" height="532" /></div><div class="row"><h2>Meetings</h2><p>Formal or informal for 2-20 people</p></div></div><div class="col-md-3 col-md-offset-1"><div class="row"><img class="img-responsive img-rounded" src="/img/room-hire-2.jpg" /></div><div class="row"><h2>Classes &amp; activities</h2><p>For up to 15 adults, babies, toddlers &amp; children.</p></div></div><div class="col-md-3 col-md-offset-1"><div class="row"><img class="img-responsive img-rounded" src="/img/room-hire-3.jpg" /></div><div class="row"><h2>Celebrations</h2><p>From reunions to baby showers for 2-20 people.</p></div></div></div>
 
 ---
 
@@ -28,6 +25,7 @@ This includes:
 * Toddler friendly rooms - socket covers, stair gates etc
 * Refreshments including tea/coffee;
 * Use of equipment (eg. chairs, tables, beanbags, yoga mats, speakers etc).
+* Projector & screen, flipchart
 
 
 **Want a regular booking? Fees start from as little as &pound;9 per hour for weekly rolling bookings.**
@@ -46,7 +44,7 @@ Please note: We are a not-for-profit organisation - please do not ask us to nego
 
 <div style="height: 25px;">&nbsp;</div>
 
-<div class="row"><div class="col-md-3"><img class="img-responsive img-rounded" src="/img/room-hire-5.jpg" /></div><div class="col-md-9"><h4>The Tack Room</h4><p><strong>Coming soon!</strong></p><p>Great for consultations, talking therapies or beauty treatments, this room is located next door to the Potting Shed, and uses the same accessible toilet and kitchenette facilities. There is a customer waiting area outside. The room is wheelchair accessible via a ramp.</p></div></div>
+<div class="row"><div class="col-md-3"><img class="img-responsive img-rounded" src="/uploads/versions/roomhire-tackroom---x6-0-948-720-790-600x---.jpg" width="790" height="600" /></div><div class="col-md-9"><h4>The Tack Room</h4><p>Great for consultations, talking therapies or beauty treatments, this room is located next door to the Potting Shed, and uses the same accessible toilet and kitchenette facilities. There is a customer waiting area outside. The building is wheelchair accessible via a ramp.</p></div></div>
 
 <div style="height: 25px;">&nbsp;</div>
 
@@ -71,7 +69,7 @@ $(document).ready(function()
 
 <link rel="stylesheet" href="/css/bootstrap-image-gallery.min.css" /><!-- Image Gallery -->
 
-<div id="blueimp-gallery" class="blueimp-gallery"><!-- The container for the modal slides --><div class="slides">&nbsp;</div><!-- Controls for the borderless lightbox --><h3 class="title">&nbsp;</h3><a class="prev">&lsaquo;</a> <a class="next">&rsaquo;</a> <a class="close">&times;</a> <ol class="indicator"></ol> <!-- The modal dialog, which will be used to wrap the lightbox content --><div class="modal fade"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" aria-hidden="true">&times;</button><h4 class="modal-title">&nbsp;</h4></div><div class="modal-body next">&nbsp;</div><div class="modal-footer"><button type="button" class="btn btn-default pull-left prev"><i class="glyphicon glyphicon-chevron-left"></i> Previous</button><button type="button" class="btn btn-primary next">Next <i class="glyphicon glyphicon-chevron-right"></i></button></div></div></div></div></div>
+<div id="blueimp-gallery" class="blueimp-gallery"><!-- The container for the modal slides --><div class="slides">&nbsp;</div><!-- Controls for the borderless lightbox --><h3 class="title">&nbsp;</h3><a class="prev">&lsaquo;</a> <a class="next">&rsaquo;</a> <a class="close">&times;</a><ol class="indicator"></ol> <!-- The modal dialog, which will be used to wrap the lightbox content --><div class="modal fade"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" aria-hidden="true">&times;</button><h4 class="modal-title">&nbsp;</h4></div><div class="modal-body next">&nbsp;</div><div class="modal-footer"><button type="button" class="btn btn-default pull-left prev"><i class="glyphicon glyphicon-chevron-left"></i> Previous</button><button type="button" class="btn btn-primary next">Next <i class="glyphicon glyphicon-chevron-right"></i></button></div></div></div></div></div>
 
 <script src="/scripts/jquery.blueimp-gallery.min.js"></script>
 
