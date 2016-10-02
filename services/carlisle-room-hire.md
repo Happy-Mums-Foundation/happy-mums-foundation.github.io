@@ -7,7 +7,7 @@ permalink: /services/carlisle-room-hire.html
 
 [Email to enquire or book](javascript:void(location.href='mailto:'+String.fromCharCode(114,111,111,109,104,105,114,101,64,104,97,112,112,121,109,117,109,115,46,111,114,103,46,117,107))){: .btn.btn-primary.btn-lg}
 
-For more information see our sister website [http://www.coachhousecarlisle.co.uk](http://www.coachhousecarlisle.co.uk)
+For more information see our sister website&nbsp;**[www.coachhousecarlisle.co.uk](http://www.coachhousecarlisle.co.uk)**
 
 <div style="height: 25px;">&nbsp;</div>
 
