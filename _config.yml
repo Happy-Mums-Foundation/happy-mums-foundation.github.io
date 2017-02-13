@@ -17,5 +17,5 @@ permalink: "blog/:title.html"
 sass:
     style: :compressed
 
-gems:
-  - jekyll-sitemap
+#gems:
+#- jekyll-sitemap
