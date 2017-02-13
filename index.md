@@ -15,11 +15,17 @@ But we’re not just about mental health: we offer classes, activities and infor
 Our services include:
 
 * Daisy Birthing\* Active Antenatal Classes
+
 * Daisy Parent\* Workshops
+
 * Birth Pool Hire
+
 * Support Groups (for Mums)
+
 * Support Groups (for Dads/Partners)
+
 * Mindfulness for Mums Courses\*\*
+
 * Events, talks and workshops
 
 \*Under licence from a national social enterprise ‘The Daisy Foundation’
