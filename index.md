@@ -34,7 +34,7 @@ Our services include:
 
 We are based at the Coach House Centre, in Carlisle. As our own unique hub, many of our classes and groups run from here, but we also reach out across North Cumbria, making support as accessible as possible.
 
-![](/uploads/versions/coachhouse1---x----282-212x---.jpg)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/versions/coachhouse1---x----282-212x---.jpg)
 
 &nbsp;
 
@@ -49,7 +49,7 @@ In addition to the services we offer directly, we have also teamed up with other
 * Baby Massage
 * Person-Centred Counselling
 
-You can find more information about everything that goes on at the Coach House Centre under the 'Services' menu.
+You can find more information about everything that goes on at the Coach House Centre under the ‘Services’ menu.
 
 The income we generate from hiring our rooms means we can continue to develop the hub, and raise awareness of maternal mental health and wellbeing issues too.
 
