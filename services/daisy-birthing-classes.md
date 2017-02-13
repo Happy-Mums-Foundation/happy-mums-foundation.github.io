@@ -10,9 +10,10 @@ permalink: /services/carlisle-pregnancy-antenatal-classes-with-daisy-birthing.ht
 If you’re pregnant in Carlisle, North Cumbria, its almost certain that you are now looking for something that can help you to:
 
 1. Enjoy easing away symptoms and adapt to your changing body;
-2. Prepare for your baby’s birth with powerful and practical tools;
-3. Meet new friends who are at the same point in their journey as you!
 
+2. Prepare for your baby’s birth with powerful and practical tools;
+
+3. Meet new friends who are at the same point in their journey as you!
 
 Daisy Birthing&reg; - the founders of the Active Antenatal method™- bring you their ground breaking, effective and all-encompassing class which will support your from 14 weeks right up to your baby’s birth! We believe in continuity of care when you need it most, supporting you on your journey as your baby grows with expert education, nourishing support and of course laughter too! Through out follow-on newborn workshops, and with the support of all our Daisy mummies, Daisy is with you every step of the way.
 
@@ -25,8 +26,6 @@ Daisy Birthing&reg; will help you stay active and ease those pregnancy symptoms 
 Daisy Birthing pregnancy & antenatal classes in Carlisle are held at the Coach House Centre on:
 
 * Wednesday 7pm
-* Saturday 10.30am
-
 
 &nbsp;
 
@@ -46,6 +45,5 @@ or contact Katherine directly:
 
 * Email: [katherine-rutherford@thedaisyfoundation.com](mailto:katherine-rutherford@thedaisyfoundation.com)
 * Phone: [07565486745](tel: 07565486745)
-
 
 ![Daisy birthing photo](/img/daisy-birthing-2.jpg){: .img-rounded}
