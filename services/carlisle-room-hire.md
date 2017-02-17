@@ -7,11 +7,9 @@ permalink: /services/carlisle-room-hire.html
 
 [Email to enquire or book](javascript:void(location.href='mailto:'+String.fromCharCode(114,111,111,109,104,105,114,101,64,104,97,112,112,121,109,117,109,115,46,111,114,103,46,117,107))){: .btn.btn-primary.btn-lg}
 
-For more information see our sister website&nbsp;**[www.coachhousecarlisle.co.uk](http://www.coachhousecarlisle.co.uk)**
-
 <div style="height: 25px;">&nbsp;</div>
 
-<div class="row"><div class="col-md-3"><div class="row"><img class="img-responsive img-rounded" width="532" height="532" src="/uploads/versions/coachhouse-meetingroom---x105-0-270-270-532-532x---.jpg" /></div><div class="row"><h2>Meetings</h2><p>Formal or informal for 2-20 people</p></div></div><div class="col-md-3 col-md-offset-1"><div class="row"><img class="img-responsive img-rounded" src="/img/room-hire-2.jpg" /></div><div class="row"><h2>Classes &amp; activities</h2><p>For up to 15 adults, babies, toddlers &amp; children.</p></div></div><div class="col-md-3 col-md-offset-1"><div class="row"><img class="img-responsive img-rounded" src="/img/room-hire-3.jpg" /></div><div class="row"><h2>Celebrations</h2><p>From reunions to baby showers for 2-20 people.</p></div></div></div>
+<div class="row"><div class="col-md-3"><div class="row"><img class="img-responsive img-rounded" width="532" height="532" src="/uploads/versions/coachhouse-meetingroom---x65-0-270-270-532-532x---.jpg" /></div><div class="row"><h2>&nbsp; &nbsp; Meetings</h2><p>&nbsp;</p></div></div><div class="col-md-3 col-md-offset-1"><div class="row"><img class="img-responsive img-rounded" src="/img/room-hire-2.jpg" /></div><div class="row"><h2>Classes &amp; activities</h2><p>&nbsp;</p></div></div><div class="col-md-3 col-md-offset-1"><div class="row"><img class="img-responsive img-rounded" src="/uploads/versions/012---x397-0-1068-1068-532-532x---.jpg" width="532" height="532" /></div><div class="row"><h2>&nbsp; &nbsp; Celebrations</h2><p>&nbsp;</p></div></div></div>
 
 ---
 
@@ -27,7 +25,6 @@ This includes:
 * Use of equipment (eg. chairs, tables, beanbags, yoga mats, speakers etc).
 * Projector & screen, flipchart
 
-
 **Want a regular booking? Fees start from as little as &pound;9 per hour for weekly rolling bookings.**
 
 Please note: We are a not-for-profit organisation - please do not ask us to negotiate reductions on hire fees as we are unable to accomodate such requests. For more info please see our schedule of fees.
@@ -36,15 +33,15 @@ Please note: We are a not-for-profit organisation - please do not ask us to nego
 
 ## Our rooms
 
-<div class="row"><div class="col-md-3"><img class="img-responsive img-rounded" src="/img/room-hire-2.jpg" /></div><div class="col-md-9"><h4>The Hayloft</h4><p>In the main Coach House building, the Hayloft is a calm and peaceful place, with air conditioning. The room can accomodate 2-10 people for a meeting in Boardroom style, or up to 9 people using mats.</p><p>On the ground floor there is an accessible toilet with baby changing facilities, and a kitchette with tea/coffee making facilities.</p></div></div>
+<div class="row"><div class="col-md-3"><img class="img-responsive img-rounded" src="/img/room-hire-2.jpg" /></div><div class="col-md-9"><h4>The Hayloft</h4><p>From April 2017 we will be using the Hayloft to accommodate our own onsite creche. If you'd like more information on the creche facility please get in touch <a href="javascript:void(location.href='mailto:'+String.fromCharCode(105,110,102,111,64,104,97,112,112,121,109,117,109,115,46,111,114,103,46,117,107))">info@happymums.org.uk</a>&nbsp;</p></div></div>
 
 <div style="height: 25px;">&nbsp;</div>
 
-<div class="row"><div class="col-md-3"><img class="img-responsive img-rounded" src="/img/room-hire-4.jpg" /></div><div class="col-md-9"><h4>The Potting Shed</h4><p>Across the car park from the main Coach House building, the Potting Shed is a larger room in a rectangular shape. It is wheelchair accessible via a ramp. The room can accomodate up to 12 people in Boardroom style, or up to 20 people for other activities.</p><p>An accessible toilet is located in the same building, as well as a kitchenette with tea/coffee making facilities.</p></div></div>
+<div class="row"><div class="col-md-3"><img class="img-responsive img-rounded" src="/img/room-hire-4.jpg" /></div><div class="col-md-9"><h4>The Potting Shed</h4><p>A larger room in a rectangular shape. It is wheelchair accessible via a ramp. The room can accommodate up to 12 people in Boardroom style, or up to 30 people for other activities.</p><p>An accessible toilet with baby changing is located in the same building, as well as a kitchenette with tea/coffee making facilities.</p></div></div>
 
 <div style="height: 25px;">&nbsp;</div>
 
-<div class="row"><div class="col-md-3"><img class="img-responsive img-rounded" width="790" height="600" src="/uploads/versions/roomhire-tackroom---x6-0-948-720-790-600x---.jpg" /></div><div class="col-md-9"><h4>The Tack Room</h4><p>Great for consultations, talking therapies or beauty treatments, this room is located next door to the Potting Shed, and uses the same accessible toilet and kitchenette facilities. There is a customer waiting area outside. The building is wheelchair accessible via a ramp.</p></div></div>
+<div class="row"><div class="col-md-3"><img class="img-responsive img-rounded" width="790" height="600" src="/uploads/versions/roomhire-tackroom---x6-0-948-720-790-600x---.jpg" /></div><div class="col-md-9"><h4>The Tack Room</h4><p>Great for consultations, talking therapies or beauty treatments, this room is located next door to the Potting Shed, with an accessible toilet, baby changing and kitchenette facilities. The building is wheelchair accessible via a ramp.</p></div></div>
 
 <div style="height: 25px;">&nbsp;</div>
 
