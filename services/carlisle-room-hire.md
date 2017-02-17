@@ -37,7 +37,7 @@ Please note: We are a not-for-profit organisation - please do not ask us to nego
 
 <div style="height: 25px;">&nbsp;</div>
 
-<div class="row"><div class="col-md-3"><img class="img-responsive img-rounded" src="/img/room-hire-4.jpg" /></div><div class="col-md-9"><h4>The Potting Shed</h4><p>A larger room in a rectangular shape. It is wheelchair accessible via a ramp. The room can accommodate up to 12 people in Boardroom style, or up to 30 people for other activities.</p><p>An accessible toilet with baby changing is located in the same building, as well as a kitchenette with tea/coffee making facilities.</p></div></div>
+<div class="row"><div class="col-md-3"><img class="img-responsive img-rounded" src="/uploads/versions/ps-meeting---x38-0-405-270-900-600x---.jpg" /></div><div class="col-md-9"><h4>The Potting Shed</h4><p>A larger room in a rectangular shape. It is wheelchair accessible via a ramp. The room can accommodate up to 12 people in Boardroom style, or up to 30 people for other activities.</p><p>An accessible toilet with baby changing is located in the same building, as well as a kitchenette with tea/coffee making facilities.</p></div></div>
 
 <div style="height: 25px;">&nbsp;</div>
 
