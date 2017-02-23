@@ -55,4 +55,4 @@ You can find more information about everything that goes on at the Coach House C
 
 The income we generate from hiring our rooms means we can continue to develop the hub, and raise awareness of maternal mental health and wellbeing issues too.
 
-![image](/img/SEUK_socialenterprise_badge_350x161.png)
+![image](/uploads/versions/social-enterprise-uk-member-certified-regular-black---x1939-0-4017-1779-350-155x---.png)
